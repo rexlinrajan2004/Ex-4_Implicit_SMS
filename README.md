@@ -93,8 +93,9 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/4b6db929-eb36-44c4-95be-3b5ba34cf1bd)
-![image](https://github.com/user-attachments/assets/09b7b9ad-7bea-4a1b-96d8-9b4d9759ddf3)
+![image](https://github.com/user-attachments/assets/9bb5915a-b127-4a3f-a7d6-675cf7789892)
+![image](https://github.com/user-attachments/assets/77a99d20-bfb5-4cab-8787-0b6ebdc234bb)
+
 
 
 
