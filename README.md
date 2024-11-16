@@ -1,6 +1,5 @@
-
+# Date:05.09.2024
 # Ex.No:4 Design an android application Send SMS using Intent.
-
 
 ## AIM:
 
@@ -93,11 +92,9 @@ public class MainActivity extends AppCompatActivity {
 </RelativeLayout>
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/9bb5915a-b127-4a3f-a7d6-675cf7789892)
-![image](https://github.com/user-attachments/assets/77a99d20-bfb5-4cab-8787-0b6ebdc234bb)
 
-
-
+<img src="https://github.com/user-attachments/assets/9bb5915a-b127-4a3f-a7d6-675cf7789892" width=200>
+<img src="https://github.com/user-attachments/assets/77a99d20-bfb5-4cab-8787-0b6ebdc234bb" width=200>
 
 ## RESULT
 Thus a Simple Android Application create and design an android application Send SMS using Intent using Android Studio is developed and executed successfully.
